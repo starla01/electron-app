@@ -2,7 +2,7 @@
 
 ## download
 
-``unix
+```js
 git clone https://github.com/starla01/electron-app.git
 ```
 
